@@ -6,12 +6,11 @@
 https://sourcemaking.com/design_patterns/abstract_factory
 https://www.codeproject.com/Articles/331304/Understanding-and-Implementing-Abstract-Factory-2
 
-2. Implement in the QT env:
-  * classes/ class which will add following feature:
-    a) One created object should enables propmpt window on stage click with message, this item can not be clicked
-    b) One created object should display random circle (filled with color) on stage click
-    c) One created object should give you random circle (only border) on stage click
-    
+2. Implement in the QT env:classes/ class which will add following feature:
+    * One created object should enables propmpt window on stage click with message, this item can not be clicked
+    * One created object should display random circle (filled with color) on stage click
+    * One created object should give you random circle (only border) on stage click
+    * One created object should give ignore such click
 
 ADDITIONAL (frequent question on job interviews)
 Problem called "Puk, Stuk, Cisza".
